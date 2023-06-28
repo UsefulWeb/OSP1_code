@@ -1,0 +1,24 @@
+.page {
+    background: #a0a39a url(images/background_desktop.png) no-repeat top left;
+}
+
+.main__title {
+    font-size: 52px;
+    transform: rotate(-6.364deg);
+    transform-origin: top left;
+    top: 191px;
+    left: 492px;
+}
+
+.main__text {
+    position: absolute;
+    top: 271px;
+    left: 492px;
+    padding: 0;
+    max-width: 390px;
+}
+
+.footer {
+    padding: 0 0 25px 25px;
+    gap: 17px;
+}
