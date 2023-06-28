@@ -2,6 +2,10 @@
     background: #a0a39a url(images/background_desktop.png) no-repeat top left;
 }
 
+.footer__qr {
+    display: inline;
+}
+
 .main__title {
     font-size: 52px;
     transform: rotate(-6.364deg);

@@ -57,22 +57,24 @@
 }
 
 .social__icon-container {
+    display: inline-block;
     height: 27px;
     width: 35px;
     text-align: center;
+}
+
+.footer__qr {
+    display: none;
 }
 
 .social__icon {
     height: 27px;
 }
 
-.social__item {
+.social__link {
     display: flex;
     align-items: center;
     gap: 5px;
-}
-
-.social__link {
     color: #fff;
     text-decoration: none;
 }
